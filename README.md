@@ -7,11 +7,6 @@ Aplikasi Koperasi Digital untuk mengelola simpanan, pinjaman, dan dividen anggot
 - [Fitur](#-fitur)
 - [Tech Stack](#-tech-stack)
 - [Instalasi](#-instalasi)
-- [Penggunaan](#-penggunaan)
-- [Struktur Proyek](#-struktur-proyek)
-- [API](#-api)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
 
 ---
 
